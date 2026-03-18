@@ -2,9 +2,9 @@
     <img src="./header.svg"/>
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=00b4d8&style=flat-square&label=Profile+Views" />
-</p>
+</p> -->
 
 ---
 
@@ -52,19 +52,6 @@
 
 <p align="center">
   <img src="./coder_static.svg" width="560" alt="coder"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
