@@ -12,7 +12,7 @@
 
 - 🎓 Sinh viên **Học viện Ngân hàng** — Ngành **Công nghệ Thông tin**
 - 🏡 Quê quán: **Xã Vũ Thư, tỉnh Hưng Yên**
-- 📍 Hiện tại: **124 Gốc Đề, Hai Bà Trưng, Hà Nội**
+- 📍 Hiện tại: **Hai Bà Trưng, Hà Nội**
 - 💼 Định hướng: **Backend Developer**
 - 🌱 Đang học thêm về **System Design** và **Cloud**
 
